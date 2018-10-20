@@ -12,6 +12,10 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     Updater
 
+# Lawnchair Default Configuration
+PRODUCT_PACKAGES += \
+    LawnConf
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
