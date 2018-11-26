@@ -12,6 +12,10 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     Updater
 
+# Substratum Signature
+PRODUCT_PACKAGES += \
+    SubstratumSignature
+
 # Lawnchair Default Configuration
 PRODUCT_PACKAGES += \
     LawnConf
