@@ -9,8 +9,7 @@ PRODUCT_PACKAGES += \
     messaging \
     TurboPrebuilt \
     WeatherClient \
-    WellbeingPrebuilt \
-    Updater
+    WellbeingPrebuilt
 
 # Substratum Signature
 PRODUCT_PACKAGES += \
